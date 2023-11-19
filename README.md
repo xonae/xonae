@@ -1,6 +1,13 @@
 ### Hey, I'm xonae 👋
 
-![kirby](https://steamuserimages-a.akamaihd.net/ugc/958608542143786291/7227F078711F647B223D1BDD06AE669A08DA63E1/)
+![mxoav](https://github.com/xonae/xonae/blob/master/banner.png)
 
-I'm a British programmer, security researcher and game developer with over a decade of experience.
-I primarily use the [Roblox](https://www.roblox.com/users/52187831/profile) platform. I've worked on games with billions of plays!
+<h5 align="center">🏝️ Based in the Isle of Man
+🖥️ 11 years of programming</h3>
+<h5 align="center">
+⚡ Optimisation
+🏗️ Scalability
+🔒 Security</h3>
+
+<h6 align="center"><a href="https://twitter.com/mxoav">pfp and banner source. thanks :)</a></h2>
+
